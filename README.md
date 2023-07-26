@@ -25,7 +25,8 @@ To use the website locally, follow these steps:
 2. git clone https://github.com/your-username/light-dark-mode.git <br>
 3. Navigate to the project directory: cd light-dark-mode <br>
 4. Open the index.html file in your preferred web browser. <br>
-5. That's it! Now you should see the website running locally. <br>
+
+That's it! Now you should see the website running locally. <br>
 
 ## Usage
 To switch between dark mode and light mode, simply click on the toggle switch provided on the website. <br>
