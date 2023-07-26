@@ -2,12 +2,12 @@
 ### This is a repository for a website that showcases a dark mode and light mode switching functionality with colors switching between light mode and dark mode themes.
 
 ## Table of Contents
-### Introduction
-### Features
-### Installation
-### Usage
-### Contributing
-### License
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Introduction
 This website is a simple demonstration of how you can implement a dark mode and light mode switching functionality in a web application. It allows users to toggle between two color themes, dark mode and light mode, providing a more comfortable user experience in low-light conditions and reducing eye strain.
@@ -21,12 +21,11 @@ This website is a simple demonstration of how you can implement a dark mode and 
 ## Installation
 To use the website locally, follow these steps:
 
-Clone this GitHub repository to your local machine using the following command: <br>
-git clone https://github.com/your-username/dark-light-mode-website.git <br>
-Navigate to the project directory: <br>
-cd dark-light-mode-website <br>
-Open the index.html file in your preferred web browser. <br>
-That's it! Now you should see the website running locally. <br>
+1. Clone this GitHub repository to your local machine using the following command: <br>
+2. git clone https://github.com/your-username/dark-light-mode.git <br>
+3. Navigate to the project directory: cd light-dark-mode <br>
+4. Open the index.html file in your preferred web browser. <br>
+5. That's it! Now you should see the website running locally. <br>
 
 ## Usage
 To switch between dark mode and light mode, simply click on the toggle switch provided on the website. <br>
