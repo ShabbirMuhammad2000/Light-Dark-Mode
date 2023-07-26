@@ -22,7 +22,7 @@ This website is a simple demonstration of how you can implement a dark mode and 
 To use the website locally, follow these steps:
 
 1. Clone this GitHub repository to your local machine using the following command: <br>
-2. git clone https://github.com/your-username/dark-light-mode.git <br>
+2. git clone https://github.com/your-username/light-dark-mode.git <br>
 3. Navigate to the project directory: cd light-dark-mode <br>
 4. Open the index.html file in your preferred web browser. <br>
 5. That's it! Now you should see the website running locally. <br>
